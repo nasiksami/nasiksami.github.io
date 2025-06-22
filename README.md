@@ -131,18 +131,23 @@ Master of Computer Science graduate with over **2 years of hands-on experience**
 
 ---
 
+## **Academic Publications**
+
+1. **N. S. Khan**, M. M. Hasan, M. S. Towhid, S. Basnet, and N. Shahriar, "Enhancing Large Language Models for Telecom Networks Using Retrieval-Augmented Generation," in **2024 IEEE Globecom Workshops (GC Wkshps)**: The Impact of Multi-modal Large Language Models on 6G and Beyond, 2024. [To appear].
+
+2. M. S. Towhid, **N. S. Khan**, M. M. Hasan, and N. Shahriar, "Towards effective network intrusion detection in imbalanced datasets: A hierarchical approach," in **International Workshop on Computing, Networking and Communications (CNC)**, 2024.
+
+3. M. S. Towhid, **N. S. Khan**, N. Shahriar, M. Tornatore, R. Boutaba, and A. Saleh, “A token prioritization strategy for handling data imbalance in network-change ticket classification,” in **19th IEEE/ACM/IFIP International Conference on Network and Service Management (CNSM)**, 2023.
+
+4. **N. S. Khan**, Z. M. A. Amin, and R. Hassan, “Waste Management Using Machine Learning and Deep Learning Algorithms,” **Int. J. Perceptive Cogn. Comput.**, vol. 6, no. 2, pp. 97–106, 2020.
+
+5. Z. M. A. Amin, **N. S. Khan**, and R. Hassan, “An Approach of Classifying Waste Using Transfer Learning Method,” **Int. J. Perceptive Cogn. Comput.**, vol. 7, no. 1, pp. 41–52, 2021.
+
+6. S. Wani, **N. S. Khan**, Z. M. A. Amin, and Y. Gulzar, “Cyberbullying Severity Detection Using Deep Learning Techniques: A Multi-Class Classification over Varied Class Balance Data,” in **Securing Social Networks in Cyberspace**, CRC Press, 2021, pp. 163–193.
+
+---
+
 ## **Extra-Curricular Activities**
 - **Vice President - Culture**: University of Regina Bangladeshi Students’ Association (Sep 2023 – Oct 2024)
 - **International Peer Advisor**: Organized 3 orientation events and volunteered at **UR International** (Jan 2024 – Apr 2025)
 - **Volunteer at IEEE Canada**: IEEE Conference CCECE 2023
-
----
-
-## **References**
-Available upon request.
-
----
-
-### **GitHub Repositories**:
-- [Telecom QA System with RAG](https://github.com/nasiksami/telecom-rag)
-- [Hierarchical IDS with CNN + Random Forest](https://github.com/nasiksami/ids-cnn-random-forest)
