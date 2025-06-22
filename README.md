@@ -1,7 +1,5 @@
 # Nasik Sami Khan
 
-![Logo][path-to-your-logo-image](https://github.com/nasiksami/nasiksami.github.io/blob/main/assets/Logo.png)
-
 #### Contact Information:
 - **Email**: [nasiksami@gmail.com](mailto:nasiksami@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nasiksami)
@@ -11,7 +9,7 @@
 ---
 
 ## **Download My Resume**:
-[**Download Resume (PDF)**]([https://github.com/yourusername/yourrepo/raw/main/resume.pdf](https://github.com/nasiksami/nasiksami.github.io/blob/main/assets/Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/nasiksami/nasiksami.github.io/blob/main/assets/Resume.pdf)
 
 ## **Professional Summary**
 
