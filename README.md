@@ -103,9 +103,3 @@ Master of Computer Science graduate with over **2 years of hands-on experience**
 - **Vice President - Culture**: University of Regina Bangladeshi Students’ Association (Sep 2023 – Oct 2024)
 - **International Peer Advisor**: Organized 3 orientation events and volunteered at **UR International** (Jan 2024 – Apr 2025)
 - **Volunteer at IEEE Canada**: IEEE Conference CCECE 2023# Nasik Sami Khan
-
-
-## **Extra-Curricular Activities**
-- **Vice President - Culture**: University of Regina Bangladeshi Students’ Association (Sep 2023 – Oct 2024)
-- **International Peer Advisor**: Organized 3 orientation events and volunteered at **UR International** (Jan 2024 – Apr 2025)
-- **Volunteer at IEEE Canada**: IEEE Conference CCECE 2023
